@@ -4,6 +4,6 @@ if, switch case, for, while, do while
 메서드 호출
 싱글톤 사용ch04._07_
 인터페이스
-ArratList
+ArrayList
 HashMap
 예외처리 (하지않으면 소스에 구멍이생긴다)
